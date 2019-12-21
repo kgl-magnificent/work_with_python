@@ -8,3 +8,4 @@ class Critter(object): #объявление класса
 crit = Critter()
 crit.talk()
 input("\n\nНажмите Enter, чтобы выйти")
+jb
